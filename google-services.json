@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "444249620673",
+    "firebase_url": "https://picktoon-app.firebaseio.com",
+    "project_id": "picktoon-app",
+    "storage_bucket": "picktoon-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444249620673:android:38c0bc177da67f7e711440",
+        "android_client_info": {
+          "package_name": "com.cock.picktoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444249620673-m67no4jiuugejv909nekgp7iq46rfecb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cock.picktoon",
+            "certificate_hash": "4af9198a11d2c2510313bd914f08b10afa8eb4e5"
+          }
+        },
+        {
+          "client_id": "444249620673-pea0ut2bbtthaqq32tdef3nqn3uugb6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZH1jPVc0BynmM30inORGHcL0Laas_IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444249620673-pea0ut2bbtthaqq32tdef3nqn3uugb6f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444249620673-rn2msm9rd1qcusn8ikv674q8qtod4t77.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cock.picktoon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
